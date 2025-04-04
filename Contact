@@ -1,0 +1,9 @@
+
+reubenxbt@proton.me
+
+## 📦 `requirements.txt`
+
+```txt
+requests
+beautifulsoup4
+pandas
