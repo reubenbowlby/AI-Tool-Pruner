@@ -1,0 +1,12 @@
+ai-tool-aggregator-dataset/
+├── data/
+│   └── toolify_ai_tools.csv       # Raw or cleaned datasets
+├── scripts/
+│   └── scrape_toolify.py          # Python scraper for Toolify.ai
+├── docs/
+│   └── data_sharing_policy.pdf    # Collab policy (generated earlier)
+├── notebooks/
+│   └── analysis.ipynb             # Jupyter for early insights (optional)
+├── LICENSE
+├── README.md
+└── requirements.txt
