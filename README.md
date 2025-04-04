@@ -25,3 +25,16 @@ git clone https://github.com/your-username/ai-tool-aggregator-dataset.git
 cd ai-tool-aggregator-dataset
 pip install -r requirements.txt
 python scripts/scrape_toolify.py
+```
+
+## 📜 License
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## 🤝 Contributing
+
+Check out the [Data Sharing Policy](docs/data_sharing_policy.pdf). Contributions are welcome through issues or pull requests.
+
+## 📬 Contact
+
+Questions? Suggestions? Reach out via [your-email@domain.com]
