@@ -37,4 +37,4 @@ Check out the [Data Sharing Policy](docs/data_sharing_policy.pdf). Contributions
 
 ## 📬 Contact
 
-Questions? Suggestions? Reach out via [your-email@domain.com]
+Questions? Suggestions? Reach out via reubenxbt@proton.me
